@@ -23,7 +23,7 @@ export default function Tasks({ user }) {
 
   return (
     <div>
-      <h2>Liste des tâches de {user.email} - [PRÉNOM NOM]</h2>
+      <h2>Liste des tâches de {user.email}</h2>
       <input
         placeholder="Nouvelle tâche"
         value={title}

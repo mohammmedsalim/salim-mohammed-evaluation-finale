@@ -21,7 +21,7 @@ export default function Login({ onLogin }) {
 
   return (
     <div>
-      <h2>Connexion - [PRÉNOM NOM]</h2>
+      <h2>Connexion - Mohammed Salim</h2>
       <form onSubmit={handleLoginClick}>
         <input
           placeholder="Email"

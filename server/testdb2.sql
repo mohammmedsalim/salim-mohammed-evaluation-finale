@@ -16,7 +16,7 @@ CREATE TABLE IF NOT EXISTS tasks (
 
 INSERT INTO users (email, password) VALUES 
 ('test@example.com', '1234'),
-('alice@gmail.com', 'alice123');
+('simohammedsalim3@gmail.com', 'salim123');
 
 INSERT INTO tasks (title, user_id) VALUES 
 ('Tâche 1 pour Test', 1),

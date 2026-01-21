@@ -1,6 +1,6 @@
 # Évaluation Finale - 420-WA6-AG - Programmation Web Avancée
 
-**Étudiant:** [PRÉNOM ÉTUDIANT] [NOM ÉTUDIANT]
+**Étudiant:** Mohammed Salim
 **Cours:** 420-WA6-AG - Programmation Web Avancée
 **Date:** Automne 2025
 
